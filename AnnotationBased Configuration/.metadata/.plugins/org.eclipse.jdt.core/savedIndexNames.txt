@@ -1,0 +1,10 @@
+INDEX VERSION 1.134+C:\Javafullstack\SpringFrameworkLearning\AnnotationBased Congiguration\.metadata\.plugins\org.eclipse.jdt.core
+1828469830.index
+3046844564.index
+597958557.index
+3645692227.index
+3664677932.index
+1673970047.index
+1865797976.index
+3457763650.index
+3777711591.index
