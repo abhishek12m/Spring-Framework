@@ -1,0 +1,12 @@
+package com.example.XMLbased;
+
+/**
+ * Hello world!
+ *
+ */
+public class AnotherBean 
+{
+    public void doSomethingElse() {
+    	System.out.println("doing something with anotherBean");
+    }
+}

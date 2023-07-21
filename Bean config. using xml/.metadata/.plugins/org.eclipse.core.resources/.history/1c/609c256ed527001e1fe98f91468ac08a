@@ -1,0 +1,13 @@
+package com.example.XMLbased;
+
+/**
+ * Hello world!
+ *
+ */
+public class AnotherBean 
+{
+    public static void main( String[] args )
+    {
+        System.out.println( "Hello World!" );
+    }
+}
